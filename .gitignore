@@ -1,0 +1,19 @@
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
